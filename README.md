@@ -1,6 +1,6 @@
 # Hey there, I'm **Vishnuram K** 👋  
 **Aspiring Software Developer** | **Computer Science Engineer**  
-📍 Location: India | 🎓 B.E. in Computer Science Engineering (CGPA: 8.0)  
+📍 Location: India | 🎓 B.E. in Computer Science Engineering (CGPA: 8.04)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishnuramK)  
 
