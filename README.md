@@ -50,7 +50,7 @@
 
 ## 📬 Let’s Connect!  
 - **GitHub**: [github.com/Vishnuram K](https://github.com/vishnuram18)  
-- **LinkedIn**: [linkedin.com/in/VishnuramK](www.linkedin.com/in/vishnuram-k-3b7224220)  
+- **LinkedIn**: [linkedin.com/in/vishnuram-k-3b7224220](https://www.linkedin.com/in/vishnuram-k-3b7224220)  
 - **Email**: vishnuramkathiravan654@gmail.com
 
 ---
