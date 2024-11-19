@@ -1,25 +1,71 @@
-# Hello, I'm Vishnuram K 👋
-🚀 Aspiring Software Developer | Computer Science Engineer | Fresher<br>🎓 B.E. in Computer Science Engineering (CGPA: 8.04) 
-💻 Passionate about problem-solving and creating impactful projects.
-📚 Developed projects like:
+# Hey there, I'm **Vishnuram K** 👋  
+**Aspiring Software Developer** | **Computer Science Engineer**  
+📍 Location: India | 🎓 B.E. in Computer Science Engineering (CGPA: 8.0)  
 
-I am an Aspiring Software Developer with a Bachelor's degree in Computer Science Engineering. With a strong foundation in software development and a passion for problem-solving, I aim to leverage my skills to create impactful solutions. I am dedicated to building meaningful projects and contributing to the tech community by continuously improving my technical expertise.
-
-👨‍💻 Proficient in:
-Languages: Python, JavaScript, Java, HTML, CSS, C
-Frameworks & Tools: Firebase, JSON<br><br><br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vishnuram-k-3b7224220) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishnuram18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuram18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=VishnuramK)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishnuram18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 About Me  
+💻 Passionate about solving **complex problems** and building **innovative projects**.  
+🚀 I’m dedicated to continuous learning, keeping up with the latest technologies, and contributing to impactful solutions.  
+
+---
+
+## 💼 Key Projects  
+
+### 📊 **Customer Churn Prediction in Telecommunication**  
+- **Tech Stack**: Python, Machine Learning  
+- **Description**:  
+  Developed a machine learning model that predicted customer churn for a telecommunications company, achieving a **20% reduction in churn rates**. The model used historical customer data to identify patterns, enabling proactive retention strategies.  
+- **Key Features**:  
+  - Preprocessing and feature engineering  
+  - Algorithm selection (Logistic Regression, Random Forest, XGBoost)  
+  - Evaluation metrics (Accuracy, Precision, Recall)  
+  - Visualization of results for stakeholders  
+
+---
+
+### 📸 **Shutter Network**  
+- **Tech Stack**: HTML, CSS, JavaScript, Firebase  
+- **Description**:  
+  Created a platform for photographers to **connect**, **showcase**, and **share** their work. Users can create profiles, upload images, and engage with a community of photographers.  
+- **Key Features**:  
+  - Firebase authentication and data storage  
+  - Image upload and portfolio management  
+  - Real-time communication and collaboration features  
+  - Responsive UI built with HTML, CSS, and JavaScript  
+
+---
+
+## 📈 Skills & Technologies  
+
+- **Languages**: Python, JavaScript, Java, HTML, CSS, C  
+- **Frameworks & Tools**: Firebase, JSON, Machine Learning (Scikit-learn, XGBoost)  
+- **Frontend**: React.js, HTML5, CSS3, JavaScript  
+- **Backend**: Python, Firebase  
+- **Version Control**: Git, GitHub  
+
+---
+
+## 📬 Let’s Connect!  
+- **GitHub**: [github.com/Vishnuram K](https://github.com/vishnuram18)  
+- **LinkedIn**: [linkedin.com/in/VishnuramK](www.linkedin.com/in/vishnuram-k-3b7224220)  
+- **Email**: vishnuramkathiravan654@gmail.com
+
+---
+
+## 🎯 Career Goals  
+- Enhance expertise in **JavaScript** and **Machine Learning**  
+- Work on building **scalable and efficient systems**  
+
+---
+
+### 💬 “**The best way to predict the future is to invent it.**” - Alan Kay
+
+---
+
+### **Badges for Skills**
+![Python](https://img.shields.io/badge/-Python-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Firebase](https://img.shields.io/badge/-Firebase-orange)
